@@ -25,4 +25,9 @@ The objective of this project is to:
 - Visualization: Matplotlib, Plotly
 - Data Source: Cleaned CSV dataset of Indian startup funding (historical data)
 
+## Project Structure
+- Startup.py( Main Streamlit app file)
+- Final_Startup-2.csv( Dataset Used For Analysis)
+- requirements.txt( Python Dependencies)
+
 
