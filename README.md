@@ -43,5 +43,8 @@ The objective of this project is to:
 - Python Libraries for Analytics
 - Interactive Web App Deployment
 
+## Live Demo
+ https://startup-fundinganalysis.streamlit.app
+
 
 
