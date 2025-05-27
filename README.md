@@ -12,4 +12,11 @@ This project is an interactive Startup Funding Analysis Dashboard built using St
   - Startup View – Individual startup funding history, with filtering and funding trends.
   - Investor View – Investor-wise analysis of startups they’ve funded, along with repeat investments and sector focus.
   - Dynamic Visualizations: Line charts and aggregated metrics for better trend understanding using matplotlib, plotly, and pandas.
+ 
+## Tech Stack
+- Frontend/UI: Streamlit
+- Backend/Data Processing: Python, Pandas
+- Visualization: Matplotlib, Plotly
+- Data Source: Cleaned CSV dataset of Indian startup funding (historical data)
+
 
