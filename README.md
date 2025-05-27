@@ -9,7 +9,7 @@ This project is an interactive Startup Funding Analysis Dashboard built using St
 - Interactive Web UI: Developed using Streamlit with a modern dark-themed interface.
 - Three-level Navigation:
   - Overall Analysis – Total, average, and maximum funding, number of startups, and a month-on-month breakdown.
-	- Startup View – Individual startup funding history, with filtering and funding trends.
-	- Investor View – Investor-wise analysis of startups they’ve funded, along with repeat investments and sector focus.
-	- Dynamic Visualizations: Line charts and aggregated metrics for better trend understanding using matplotlib, plotly, and pandas.
+  - Startup View – Individual startup funding history, with filtering and funding trends.
+  - Investor View – Investor-wise analysis of startups they’ve funded, along with repeat investments and sector focus.
+  - Dynamic Visualizations: Line charts and aggregated metrics for better trend understanding using matplotlib, plotly, and pandas.
 
