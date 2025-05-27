@@ -30,4 +30,18 @@ The objective of this project is to:
 - Final_Startup-2.csv( Dataset Used For Analysis)
 - requirements.txt( Python Dependencies)
 
+## Sample Insights
+- Total funding raised: ₹12,67,735 Cr+
+- Highest single funding: ₹2,12,925 Cr
+- Total startups analyzed: 1,081+
+- Peak funding periods identified via time series plots
+
+## Skills Demonstrated
+- Data Cleaning & Transformation
+- Real-time Dashboard Development
+- Exploratory Data Analysis (EDA)
+- Python Libraries for Analytics
+- Interactive Web App Deployment
+
+
 
