@@ -1,5 +1,5 @@
 # Startup_Funding_Analysis-Streamlit-App-
-An interactive Streamlit dashboard that analyzes startup funding trends in India using Python, Pandas, and Plotly
+An interactive Streamlit dashboard that analyzes startup funding trends in India using Python, Pandas,Matplotlib
 
 ## Executive Summary
 
@@ -22,7 +22,7 @@ The objective of this project is to:
 ## Tech Stack
 - Frontend/UI: Streamlit
 - Backend/Data Processing: Python, Pandas
-- Visualization: Matplotlib, Plotly
+- Visualization: Matplotlib
 - Data Source: Cleaned CSV dataset of Indian startup funding (historical data)
 
 ## Project Structure
@@ -31,8 +31,8 @@ The objective of this project is to:
 - requirements.txt( Python Dependencies)
 
 ## Sample Insights
-- Total funding raised: ₹12,67,735 Cr+
-- Highest single funding: ₹2,12,925 Cr
+- Total funding raised: ₹30,60,927 Cr+
+- Highest single funding: ₹3,32,163 Cr
 - Total startups analyzed: 1,081+
 - Peak funding periods identified via time series plots
 
